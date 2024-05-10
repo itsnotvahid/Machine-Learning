@@ -1,5 +1,0 @@
-*  # Ignore everything by default
-.gitignore
-!README* # But keep files starting with README (e.g. README.md)
-!LICENSE*
-*.ipynb # Include only files ending with .ipynb
